@@ -1,0 +1,40 @@
+# Visual Studio 파일
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 빌드 아티팩트
+Debug/
+Release/
+x64/
+x86/
+ARM/
+*.exe
+*.obj
+*.pch
+*.pdb
+*.ipdb
+*.iobj
+*.log
+*.ilk
+*.tlb
+*.tli
+*.tlh
+*.cache
+*.dll
+*.lib
+*.exp
+
+# CMake 관련 (사용 중일 경우)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# 기타
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb

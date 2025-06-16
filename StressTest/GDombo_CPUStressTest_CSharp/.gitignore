@@ -1,0 +1,26 @@
+# Visual Studio 파일
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 빌드 아티팩트
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# NuGet 패키지
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# 기타
+_ReSharper*/
+*.DotSettings.user
+.idea/
+*.log
