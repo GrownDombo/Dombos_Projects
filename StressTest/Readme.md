@@ -16,6 +16,13 @@ C#의 특성상 GC(Garbage Collector)를 강제로 실행하더라도 메모리�
 
 ---
 
+## 기술 스택
+- **Language**: C++20  
+- **Toolchain**: Visual Studio 2022  
+- **API/Library**: WinAPI (`windows.h`, `psapi.h`, `shlobj.h`)  
+- **기능 사용**: 멀티스레딩, 파일 시스템 처리, 고정밀 타이머, 실시간 메모리 제어, CSV 파일 출력
+
+---
 ## ⚙️ 기능 요약
 
 | 테스트 종류 | 설명 |
@@ -33,14 +40,6 @@ C#의 특성상 GC(Garbage Collector)를 강제로 실행하더라도 메모리�
 
 ※ 일반적으로 Mandelbrot 계산은 GPU에서 병렬 처리되는 예제가 많지만,  
 본 프로젝트에서는 CPU 성능 측정을 목적으로 구현하였습니다.  
-
----
-
-## 기술 스택
-- **Language**: C++20  
-- **Toolchain**: Visual Studio 2022  
-- **API/Library**: WinAPI (`windows.h`, `psapi.h`, `shlobj.h`)  
-- **기능 사용**: 멀티스레딩, 파일 시스템 처리, 고정밀 타이머, 실시간 메모리 제어, CSV 파일 출력
 
 ---
 
@@ -101,6 +100,15 @@ It supports various high-load algorithms and comparisons such as **single-thread
 
 ---
 
+## Tech Stack
+
+- **Language**: C++20  
+- **Toolchain**: Visual Studio 2022  
+- **API/Library**: WinAPI (`windows.h`, `psapi.h`, `shlobj.h`)  
+- **Features**: Multithreading, file system ops, high-precision timers, memory diagnostics, CSV output
+
+---
+
 ## ⚙️ Key Features
 
 | Test Type | Description |
@@ -118,15 +126,6 @@ All tests are compared in:
 
 ※ Note: Although Mandelbrot rendering is often GPU-accelerated,  
 this implementation uses CPU multithreading to simulate workload distribution and stress CPU performance.
-
----
-
-## Tech Stack
-
-- **Language**: C++20  
-- **Toolchain**: Visual Studio 2022  
-- **API/Library**: WinAPI (`windows.h`, `psapi.h`, `shlobj.h`)  
-- **Features**: Multithreading, file system ops, high-precision timers, memory diagnostics, CSV output
 
 ---
 
