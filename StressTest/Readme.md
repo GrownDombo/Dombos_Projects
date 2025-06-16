@@ -31,6 +31,9 @@ C#의 특성상 GC(Garbage Collector)를 강제로 실행하더라도 메모리�
 - `단일 처리` vs `멀티스레드 병렬 처리`
 - `동일 작업 반복형` vs `작업 분담형` 병렬화
 
+※ 일반적으로 Mandelbrot 계산은 GPU에서 병렬 처리되는 예제가 많지만,  
+본 프로젝트에서는 CPU 성능 측정을 목적으로 구현하였습니다.  
+
 ---
 
 ## 기술 스택
@@ -112,6 +115,9 @@ It supports various high-load algorithms and comparisons such as **single-thread
 All tests are compared in:
 - `Single-threaded` vs `Multi-threaded`
 - `Repeating same task` vs `Divided workload` models
+
+※ Note: Although Mandelbrot rendering is often GPU-accelerated,  
+this implementation uses CPU multithreading to simulate workload distribution and stress CPU performance.
 
 ---
 
