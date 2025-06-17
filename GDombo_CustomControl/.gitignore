@@ -1,0 +1,56 @@
+
+# Build results
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+*.ilk
+*.ncb
+*.log
+*.pdb
+*.ipch
+*.aps
+*.dbmdl
+*.bak
+*.Backup
+*.log
+*.vspscc
+*.vssscc
+*.vsscc
+*.tmp
+*.swp
+
+# Visual Studio settings
+.vs/
+.vscode/
+*.code-workspace
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Others
+_ReSharper*/
+*.DotSettings.user
+*.DotCover
+TestResults/
+*.vsmdi
+*.testsettings
+*.tss
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Rider
+.idea/
+
+# Custom
+*.DS_Store
