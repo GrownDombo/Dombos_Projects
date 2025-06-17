@@ -6,6 +6,12 @@
 **🔗 [GitHub에서 프로젝트 보기](https://github.com/GrownDombo/Dombos_Projects/tree/main/GDombo_StressTest)**  
 C++로 작성된 CPU 부하 시뮬레이션 도구입니다.  
 멀티스레드를 활용하여 CPU의 처리 능력을 테스트할 수 있습니다.
+<br>
+## 2. CustomControl DLL 프로젝트  
+**🔗 [GitHub에서 프로젝트 보기](https://github.com/GrownDombo/Dombos_Projects/tree/main/GDombo_CustomControl)**  
+C#으로 작성된 사용자 정의 WinForms 컨트롤 모음입니다.  
+기본 컨트롤로는 부족한 기능을 직접 구현하여 DLL 형태로 재사용할 수 있도록 구성했습니다.
+<br>
 
 <br><br>
 ---
@@ -14,8 +20,13 @@ C++로 작성된 CPU 부하 시뮬레이션 도구입니다.
 # Dombo's Projects  
 This repository contains personal tools and experiments.  
 Various utilities such as test tools will be added over time.
-<br><br>
+<br>
 ## 1. CPU Stress Test  
 **🔗 [View the project on GitHub](https://github.com/GrownDombo/Dombos_Projects/tree/main/GDombo_StressTest)**  
 A CPU load simulation tool written in C++.  
 It uses multithreading to test system performance and stability.
+<br>
+## 2. CustomControl DLL Project  
+**🔗 [View the project on GitHub](https://github.com/GrownDombo/Dombos_Projects/tree/main/GDombo_CustomControl)**  
+A collection of custom WinForms controls written in C#.  
+It provides reusable components as a DLL for extended UI functionality not available in standard controls.
