@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JunYeong\\\uBC14\uD0D5 \uD654\uBA74\\Code\\Dombos_Projects\\GDombo_CustomControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D095A4E-2234-47E2-9FB7-0F8119D0D828}|GDombo_CustomControl_Tester\\GDombo_CustomControl_Tester.csproj|c:\\users\\junyeong\\\uBC14\uD0D5 \uD654\uBA74\\code\\dombos_projects\\gdombo_customcontrol\\gdombo_customcontrol_tester\\formcustomcontroltester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D095A4E-2234-47E2-9FB7-0F8119D0D828}|GDombo_CustomControl_Tester\\GDombo_CustomControl_Tester.csproj|solutionrelative:gdombo_customcontrol_tester\\formcustomcontroltester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D095A4E-2234-47E2-9FB7-0F8119D0D828}|GDombo_CustomControl_Tester\\GDombo_CustomControl_Tester.csproj|c:\\users\\junyeong\\\uBC14\uD0D5 \uD654\uBA74\\code\\dombos_projects\\gdombo_customcontrol\\gdombo_customcontrol_tester\\formcustomcontroltester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D095A4E-2234-47E2-9FB7-0F8119D0D828}|GDombo_CustomControl_Tester\\GDombo_CustomControl_Tester.csproj|solutionrelative:gdombo_customcontrol_tester\\formcustomcontroltester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDE7AE3-EAAF-48CE-9F91-2B640D5A67A2}|GDombo_CustomControl\\GDombo_CustomControl.csproj|c:\\users\\junyeong\\\uBC14\uD0D5 \uD654\uBA74\\code\\dombos_projects\\gdombo_customcontrol\\gdombo_customcontrol\\checkboxcombobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDE7AE3-EAAF-48CE-9F91-2B640D5A67A2}|GDombo_CustomControl\\GDombo_CustomControl.csproj|solutionrelative:gdombo_customcontrol\\checkboxcombobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckBoxComboBox.cs",
+              "DocumentMoniker": "C:\\Users\\JunYeong\\\uBC14\uD0D5 \uD654\uBA74\\Code\\Dombos_Projects\\GDombo_CustomControl\\GDombo_CustomControl\\CheckBoxComboBox.cs",
+              "RelativeDocumentMoniker": "GDombo_CustomControl\\CheckBoxComboBox.cs",
+              "ToolTip": "C:\\Users\\JunYeong\\\uBC14\uD0D5 \uD654\uBA74\\Code\\Dombos_Projects\\GDombo_CustomControl\\GDombo_CustomControl\\CheckBoxComboBox.cs",
+              "RelativeToolTip": "GDombo_CustomControl\\CheckBoxComboBox.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:05:22.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormCustomControlTester.cs",
+              "DocumentMoniker": "C:\\Users\\JunYeong\\\uBC14\uD0D5 \uD654\uBA74\\Code\\Dombos_Projects\\GDombo_CustomControl\\GDombo_CustomControl_Tester\\FormCustomControlTester.cs",
+              "RelativeDocumentMoniker": "GDombo_CustomControl_Tester\\FormCustomControlTester.cs",
+              "ToolTip": "C:\\Users\\JunYeong\\\uBC14\uD0D5 \uD654\uBA74\\Code\\Dombos_Projects\\GDombo_CustomControl\\GDombo_CustomControl_Tester\\FormCustomControlTester.cs",
+              "RelativeToolTip": "GDombo_CustomControl_Tester\\FormCustomControlTester.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwDQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:03:05.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCustomControlTester.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\JunYeong\\\uBC14\uD0D5 \uD654\uBA74\\Code\\Dombos_Projects\\GDombo_CustomControl\\GDombo_CustomControl_Tester\\FormCustomControlTester.cs",
+              "RelativeDocumentMoniker": "GDombo_CustomControl_Tester\\FormCustomControlTester.cs",
+              "ToolTip": "C:\\Users\\JunYeong\\\uBC14\uD0D5 \uD654\uBA74\\Code\\Dombos_Projects\\GDombo_CustomControl\\GDombo_CustomControl_Tester\\FormCustomControlTester.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "GDombo_CustomControl_Tester\\FormCustomControlTester.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:55:50.756Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
