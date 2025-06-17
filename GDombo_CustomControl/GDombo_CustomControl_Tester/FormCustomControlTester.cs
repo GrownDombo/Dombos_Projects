@@ -50,6 +50,8 @@ namespace GDombo_CustomControl_Tester
                 Label lableTemp = new Label();
                 lableTemp.Text = $"Lable Text {i}";
                 lableTemp.Name = $"Lable Name {i}";
+                lableTemp.TextAlign = ContentAlignment.MiddleCenter;
+                lableTemp.BorderStyle = BorderStyle.FixedSingle;
                 verticalFlowLayoutPanel1.Controls.Add(lableTemp);
             }
 
