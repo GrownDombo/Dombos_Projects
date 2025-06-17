@@ -67,14 +67,17 @@ namespace GDombo_CustomControl
         public void AddItem(string item, bool isChecked = false)
         {
             dropdownPanel.AddItem(item, isChecked);
+            UpdateText();
         }
         public void AddItemRange(string[] items)
         {
             dropdownPanel.AddItemRange(items);
+            UpdateText();
         }
         public void ItemClear()
         {
             dropdownPanel.ItemClear();
+            UpdateText();
         }
 
         protected async override void OnClick(EventArgs e)
