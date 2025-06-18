@@ -21,6 +21,7 @@ C#에서 기본적으로 제공하지 않는 컨트롤 중, 개인적으로 필�
 
 - **DoubleBufferedDataGridView**  
   깜빡임 없는 부드러운 렌더링을 위한 더블 버퍼링이 적용된 DataGridView입니다.
+![DoubleBufferedDataGridView](./Images/DoubleBufferedDataGridView.gif)
 
 - **VerticalFlowLayout**  
   컨트롤들을 세로 방향으로 자동 정렬해주는 사용자 정의 레이아웃 패널입니다.
@@ -58,16 +59,17 @@ It includes controls that are not provided by default in C#, but were implemente
 ## Included Controls
 
 - **CheckBoxComboBox**  
-  A combo box allowing multiple selections with checkbox UI for each item. Selected values are displayed in the textbox.
+  A combo box allowing multiple selections with checkbox UI for each item. Selected values are displayed in the textbox.  
 ![CheckBoxComboBox](./Images/CheckBoxComboBox.png)
 
 - **ColorComboBox**  
-  A dropdown combo box with selectable color swatches, letting users pick a predefined color without a separate color dialog.
+  A dropdown combo box with selectable color swatches, letting users pick a predefined color without a separate color dialog.  
 ![ColorComboBox](./Images/ColorComboBox.png)
 
 - **DoubleBufferedDataGridView**  
-  A flicker-free DataGridView that enables smoother rendering using double buffering.
-  
+  A flicker-free DataGridView that enables smoother rendering using double buffering.  
+![DoubleBufferedDataGridView](./Images/DoubleBufferedDataGridView.gif)
+
 - **VerticalFlowLayout**  
   A custom layout panel that arranges controls vertically in flow style.
   
