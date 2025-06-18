@@ -2,7 +2,8 @@
 # GDombo_CustomControl
 
 .NET Framework 4.8 기반으로 제작된 WinForms 전용 사용자 정의 컨트롤 모음입니다.  
-Visual Studio 2022에서 개발되었으며, 보다 직관적이고 성능 좋은 UI 컴포넌트를 제공합니다.
+Visual Studio 2022에서 개발되었으며, 보다 직관적인 UI 구성 요소들을 제공합니다.  
+C#에서 기본적으로 제공하지 않는 컨트롤 중, 개인적으로 필요하다고 판단한 기능들을 직접 구현하여 추가했습니다.
 
 ---
 
@@ -12,9 +13,11 @@ Visual Studio 2022에서 개발되었으며, 보다 직관적이고 성능 좋�
 
 - **CheckBoxComboBox**  
   다중 선택이 가능한 콤보박스. 각 항목은 체크박스로 표시되며 선택 상태를 텍스트에 반영합니다.
+![CheckBoxComboBox](./Images/CheckBoxComboBox.png)
 
 - **ColorComboBox**  
   ColorDialog 없이도 미리 정의된 색상 중 하나를 선택할 수 있는 컬러 콤보박스입니다. 드롭다운에서 색상 블록을 바로 선택 가능.
+![ColorComboBox](./Images/ColorComboBox.png)
 
 - **DoubleBufferedDataGridView**  
   깜빡임 없는 부드러운 렌더링을 위한 더블 버퍼링이 적용된 DataGridView입니다.
@@ -46,8 +49,9 @@ Visual Studio 2022에서 개발되었으며, 보다 직관적이고 성능 좋�
 
 # GDombo_CustomControl (English)
 
-A custom WinForms control library for .NET Framework 4.8.  
-This project provides extended and reusable components for Windows Forms development, written in C# and built with Visual Studio 2022.
+A collection of custom controls for WinForms, built on .NET Framework 4.8.  
+Developed using Visual Studio 2022, it provides more intuitive UI components for desktop applications.  
+It includes controls that are not provided by default in C#, but were implemented based on personal needs and use cases.
 
 ---
 
@@ -55,9 +59,11 @@ This project provides extended and reusable components for Windows Forms develop
 
 - **CheckBoxComboBox**  
   A combo box allowing multiple selections with checkbox UI for each item. Selected values are displayed in the textbox.
+![CheckBoxComboBox](./Images/CheckBoxComboBox.png)
 
 - **ColorComboBox**  
   A dropdown combo box with selectable color swatches, letting users pick a predefined color without a separate color dialog.
+![ColorComboBox](./Images/ColorComboBox.png)
 
 - **DoubleBufferedDataGridView**  
   A flicker-free DataGridView that enables smoother rendering using double buffering.
