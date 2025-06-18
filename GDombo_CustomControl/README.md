@@ -12,7 +12,7 @@ C#에서 기본적으로 제공하지 않는 컨트롤 중, 개인적으로 필�
 이 프로젝트는 C# WinForms에서 기본 컨트롤의 기능을 확장한 다음과 같은 커스텀 컨트롤을 제공합니다:
 
 - **CheckBoxComboBox**  
-  다중 선택이 가능한 콤보박스. 각 항목은 체크박스로 표시되며 선택 상태를 텍스트에 반영합니다.
+  다중 선택이 가능한 콤보박스. 각 항목은 체크박스로 표시되며 선택 상태를 텍스트에 반영합니다.  
 ![CheckBoxComboBox](./Images/CheckBoxComboBox.png)
 
 - **ColorComboBox**  
