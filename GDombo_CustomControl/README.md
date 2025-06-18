@@ -16,16 +16,16 @@ C#에서 기본적으로 제공하지 않는 컨트롤 중, 개인적으로 필�
 ![CheckBoxComboBox](./Images/CheckBoxComboBox.png)
 
 - **ColorComboBox**  
-  ColorDialog 없이도 미리 정의된 색상 중 하나를 선택할 수 있는 컬러 콤보박스입니다. 드롭다운에서 색상 블록을 바로 선택 가능.
+  ColorDialog 없이도 미리 정의된 색상 중 하나를 선택할 수 있는 컬러 콤보박스입니다. 드롭다운에서 색상 블록을 바로 선택 가능.  
 ![ColorComboBox](./Images/ColorComboBox.png)
 
 - **DoubleBufferedDataGridView**  
-  깜빡임 없는 부드러운 렌더링을 위한 더블 버퍼링이 적용된 DataGridView입니다.
+  깜빡임 없는 부드러운 렌더링을 위한 더블 버퍼링이 적용된 DataGridView입니다.  
 ![DoubleBufferedDataGridView](./Images/DoubleBufferedDataGridView.gif)
 
 - **VerticalFlowLayout**  
-  컨트롤들을 세로 방향으로 자동 정렬해주는 사용자 정의 레이아웃 패널입니다.
-  
+  컨트롤들을 세로 방향으로 자동 정렬해주는 사용자 정의 레이아웃 패널입니다.  
+![VerticalFlowLayout](./Images/VerticalFlowLayout.gif)  
 ---
 
 ## 기술 스택
@@ -71,8 +71,8 @@ It includes controls that are not provided by default in C#, but were implemente
 ![DoubleBufferedDataGridView](./Images/DoubleBufferedDataGridView.gif)
 
 - **VerticalFlowLayout**  
-  A custom layout panel that arranges controls vertically in flow style.
-  
+  A custom layout panel that arranges controls vertically in flow style.  
+![VerticalFlowLayout](./Images/VerticalFlowLayout.gif)  
 ---
 
 ## Tech Stack
