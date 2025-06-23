@@ -83,7 +83,7 @@ It includes controls that are not provided by default in C#, but were implemente
 
 ---
 
-## 🧪 How to Use
+## How to Use
 
 1. Open the solution file `GDombo_CustomControl.sln` in Visual Studio 2022
 2. Build the solution (`Ctrl + Shift + B`)
