@@ -19,7 +19,7 @@ Excel 데이터를 조건 기반으로 시각적으로 강조해주는 Windows F
 해당 라이브러리는 MIT 라이선스 하에 배포됩니다.
 
 라이선스 전문은 다음 경로에서 확인하실 수 있습니다:  
-**🔗 [ThirdPartyLicenses/ClosedXML_LICENSE.txt](./ThirdPartyLicenses/ClosedXML_LICENSE.txt)**
+**🔗 [ThirdPartyLicenses/ClosedXML_LICENSE.txt](./GDombo_ConditionExcelPainter/GDombo_ConditionExcelPainter/GDombo_ConditionExcelPainter/Installers/ThirdPartyLicenses/ClosedXML_LICENSE.txt)**
 
 <br><br>
 ---
@@ -46,4 +46,4 @@ This application uses the **🔗 [ClosedXML](https://github.com/ClosedXML/Closed
 which is distributed under the MIT License.
 
 The full license text can be found at:  
-**🔗 [ThirdPartyLicenses/ClosedXML_LICENSE.txt](./ThirdPartyLicenses/ClosedXML_LICENSE.txt)**
+**🔗 [ThirdPartyLicenses/ClosedXML_LICENSE.txt](./GDombo_ConditionExcelPainter/GDombo_ConditionExcelPainter/GDombo_ConditionExcelPainter/Installers/ThirdPartyLicenses/ClosedXML_LICENSE.txt)**
