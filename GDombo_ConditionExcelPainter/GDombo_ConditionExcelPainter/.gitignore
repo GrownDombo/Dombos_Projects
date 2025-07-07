@@ -1,0 +1,51 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+
+# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# NuGet packages and lock files
+packages/
+*.nupkg
+*.snupkg
+*.nuspec
+project.lock.json
+project.assets.json
+
+# Test results
+TestResults/
+*.vsmdi
+*.testsettings
+
+# Windows and macOS system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.DS_Store
+
+# JetBrains IDEs (Rider, ReSharper)
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+# Temporary, backup, and swap files
+*.tmp
+*.bak
+*.old
+*.swp
+
+# Allow license files to be tracked
+!ThirdPartyLicenses/
+!ThirdPartyLicenses/**
+
+# Excel temp files
+~$*.xlsx
